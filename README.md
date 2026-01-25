@@ -2,12 +2,12 @@
 
 This page will feature course projects from Introduction to Data Science
 
-### The layout of the page will be formatted like this:
+## The layout of the page will be formatted like this:
 
-**Visualizations**
+##### **Visualizations**
 -----------------------------------------------------
-**Models**
+##### **Models**
 -----------------------------------------------------
-**Exploratory Data Analyses**
+##### **Exploratory Data Analyses**
 -----------------------------------------------------
-**Miscellaneous**
+##### **Miscellaneous**
