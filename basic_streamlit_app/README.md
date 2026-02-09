@@ -5,3 +5,5 @@ This is an app that uses data from the 2015 World Happiness Report. This report 
 
 ### What does this specific app do?
 The World Happiness App allows users to filter the data by region and by generosity scores. It also shows the relationship between GDP per capita and happiness scores as well as the relationship between health and happiness scores. This app is for anyone interested in taking a closer look at what might influence a country's happiness.
+
+##### ---> If you run this app, don't forget to use "streamlit run basic_streamlit_app/happiness_app.py" <---
