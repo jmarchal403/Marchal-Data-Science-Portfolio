@@ -7,5 +7,7 @@ This page will feature course projects from Introduction to Data Science
 ##### **Class Activities**
 -----------------------------------------------------
 ##### **My Own Applications and Projects**
+Background and instructions for applications will be provided in the folder README.md 
+
 -----------------------------------------------------
 
