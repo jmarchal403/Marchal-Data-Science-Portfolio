@@ -25,10 +25,12 @@ It's important to note that I used several key Python libraries for this project
 Here are a just a few of the visualizations and tables I produced using this data set.
 
 A brief look at our tidy data:
+
 ![alt text](image.png)
 
 Visualization of number of medals by sport:
 ![alt text](image-1.png)
 
 Pivot table of number of medals by gender and sport:
+
 ![alt text](image-2.png)
