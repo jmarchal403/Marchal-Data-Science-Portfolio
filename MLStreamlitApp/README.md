@@ -1,5 +1,5 @@
 # Machine Learning Streamlit App
-This app is designed to walk users through the basics of supervised machine learning. Link to the app: 
+This app is designed to walk users through the basics of supervised machine learning. Link to the app: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/blob/main/MLStreamlitApp/machine_learning_app.py
 
 Using this app, users can experiment with a variety of different performance evaluation metrics (such as accuracy, precision, and ROC curve). They can also manipulate the hyperparameters of several different machine learning models, including linear regression, decision trees, and K nearest neighbors.
 
