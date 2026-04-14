@@ -9,9 +9,9 @@ st.write("Explore three different datasets (Flight Data, Motor Trends, and Weath
 import pandas as pd
 st.subheader("Exploring Our Sample Datasets")
 # Load the 3 CSV files provided as options for the user
-flight_df = pd.read_csv("data/flights-1m.csv")
-motor_df = pd.read_csv("data/mtcars.csv")
-weather_df = pd.read_csv("data/weather.csv")
+flight_df = pd.read_csv("Data/flights-1m.csv")
+motor_df = pd.read_csv("Data/mtcars.csv")
+weather_df = pd.read_csv("Data/weather.csv")
 # Display a brief preview of the datasets to the user
 st.write("Here is a preview of the Flight Data:")
 st.dataframe(flight_df.head())
