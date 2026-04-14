@@ -1,5 +1,5 @@
 # Machine Learning Streamlit App
-This app is designed to walk users through the basics of supervised machine learning. Link to the app: 
+This app is designed to walk users through the basics of supervised machine learning. Link to the app: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/blob/main/MLStreamlitApp/machine_learning_app.py
 
 Using this app, users can experiment with a variety of different performance evaluation metrics (such as accuracy, precision, and ROC curve). They can also manipulate the hyperparameters of several different machine learning models, including linear regression, decision trees, and K nearest neighbors.
 
@@ -14,7 +14,7 @@ All of this data can be found at Agents for Data using this link: https://www.ag
 
 I first introduce users to the app, explaining its function and presenting them with the three datasets available for them to examine.
 
-After presenting users with the data, I offer them the chance to pick a dataset that they would like to explore with linear regression. They are
+After presenting users with the data, there are three sections of this app: linear regression, decision tree analysis, and k nearest neighbors analysis. In each section, the user can choose a different dataset and select feature variables they are interested in. They also have the ability to manipulate hyperparameters for these models, such as the number of neighbors in k nearest neighbors and the max depth of the decision tree. 
 
 ### Tips for Running this App
 
@@ -23,18 +23,18 @@ Make sure to go and look at the code comments I left in the python file if you a
 Otherwise:
 1. When uploading the csv files, make sure that the name of the data you downloaded exactly matches the data you are uploading in python.
 2. Ensure that you have the correct libraries and models imported. 
-    All imports used in this app:
-    import streamlit as st
-    import pandas as pd
-    from sklearn.linear_model import LinearRegression
-    from sklearn.metrics import r2_score, mean_squared_error
-    import numpy as np
-    from sklearn.model_selection import train_test_split
-    from sklearn.tree import DecisionTreeClassifier
-    from sklearn.metrics import accuracy_score, precision_score, roc_auc_score
-    from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay, roc_curve
-    import matplotlib.pyplot as plt
-    from sklearn.neighbors import KNeighborsClassifier
+    All imports used in this app:  
+    import streamlit as st  
+    import pandas as pd  
+    from sklearn.linear_model import LinearRegression  
+    from sklearn.metrics import r2_score, mean_squared_error  
+    import numpy as np  
+    from sklearn.model_selection import train_test_split  
+    from sklearn.tree import DecisionTreeClassifier  
+    from sklearn.metrics import accuracy_score, precision_score, roc_auc_score  
+    from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay, roc_curve  
+    import matplotlib.pyplot as plt  
+    from sklearn.neighbors import KNeighborsClassifier  
 3. Do NOT forget to set your working directory to the folder you saved the python file to!
 
 ### App Feature Examples 
