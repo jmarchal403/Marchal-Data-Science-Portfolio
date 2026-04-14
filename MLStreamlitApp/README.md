@@ -23,13 +23,13 @@ Make sure to go and look at the code comments I left in the python file if you a
 Otherwise:
 1. When uploading the csv files, make sure that the name of the data you downloaded exactly matches the data you are uploading in python.
 2. Ensure that you have the correct libraries and models imported. 
-    All imports used in this app:
-    import streamlit as st
-    import pandas as pd
-    from sklearn.linear_model import LinearRegression
-    from sklearn.metrics import r2_score, mean_squared_error
-    import numpy as np
-    from sklearn.model_selection import train_test_split
+    All imports used in this app:  
+    import streamlit as st  
+    import pandas as pd  
+    from sklearn.linear_model import LinearRegression  
+    from sklearn.metrics import r2_score, mean_squared_error  
+    import numpy as np  
+    from sklearn.model_selection import train_test_split  
     from sklearn.tree import DecisionTreeClassifier
     from sklearn.metrics import accuracy_score, precision_score, roc_auc_score
     from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay, roc_curve
