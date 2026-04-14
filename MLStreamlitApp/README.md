@@ -14,7 +14,7 @@ All of this data can be found at Agents for Data using this link: https://www.ag
 
 I first introduce users to the app, explaining its function and presenting them with the three datasets available for them to examine.
 
-After presenting users with the data, I offer them the chance to pick a dataset that they would like to explore with linear regression. They are
+After presenting users with the data, there are three sections of this app: linear regression, decision tree analysis, and k nearest neighbors analysis. In each section, the user can choose a different dataset and select feature variables they are interested in. They also have the ability to manipulate hyperparameters for these models, such as the number of neighbors in k nearest neighbors and the max depth of the decision tree. 
 
 ### Tips for Running this App
 
