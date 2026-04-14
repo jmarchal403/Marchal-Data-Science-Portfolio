@@ -30,11 +30,11 @@ Otherwise:
     from sklearn.metrics import r2_score, mean_squared_error  
     import numpy as np  
     from sklearn.model_selection import train_test_split  
-    from sklearn.tree import DecisionTreeClassifier
-    from sklearn.metrics import accuracy_score, precision_score, roc_auc_score
-    from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay, roc_curve
-    import matplotlib.pyplot as plt
-    from sklearn.neighbors import KNeighborsClassifier
+    from sklearn.tree import DecisionTreeClassifier  
+    from sklearn.metrics import accuracy_score, precision_score, roc_auc_score  
+    from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay, roc_curve  
+    import matplotlib.pyplot as plt  
+    from sklearn.neighbors import KNeighborsClassifier  
 3. Do NOT forget to set your working directory to the folder you saved the python file to!
 
 ### App Feature Examples 
