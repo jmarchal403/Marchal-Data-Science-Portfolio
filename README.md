@@ -15,8 +15,9 @@ This project focuses on data from the 2015 World Happiness Report. Using this da
 
 Project 2: Tidy Data Project - https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/TidyData-Project
 
-This is a project that takes a set of data on the 2008 Olympics, cleans it using tidy data principles, and performs some basic analysis based on pivot tables and visualizations.
-The project reinforces the practice of always cleaning and reshaping your data first. This is an important lesson to learn for every data scientist, as we can only read deeper into the data once we have organized it into a proper format. 
+This is a project that takes a set of data on the 2008 Olympics, cleans it using tidy data principles, and performs some basic analysis based on pivot tables and visualizations. This project encouraged me to use the Gestalt principles to my advantage when determining how to present data. These principles focus on the way we tend to absorb visual information, underlining how effective data communication is about effective data visualization. I used matplotlib and seaborn (two commonly used libraries in Python) to visualize aspects of the data that I found interesting. One finding that I displayed is the gap in medals won between the highest earning event (athletics) and the lowest earning event (modern pentathlon): approximately 160 medals!
+
+This project reinforces the practice of always cleaning and reshaping your data first. The data I used began with multiple variables combined into a single column. To prepare the data for visualization, I melted it, dropped missing values, and ensured that each medalist received their own row. Practicing this process is important for every data scientist, as we can only read deeper into the data once we have organized it into a proper format. 
 
 Project 3: Machine Learning Streamlit App - https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/MLStreamlitApp
 
