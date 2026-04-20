@@ -25,9 +25,9 @@ This project reinforces the practice of always cleaning and reshaping your data 
 
 Project 3: Machine Learning Streamlit App - https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/MLStreamlitApp
 
-This project aims to familiarize users with the basics of supervised machine learning. It introduces popular models such as linear regression, decision trees, and k nearest neighbors. It also allows users to experiment with different hyperparameters (such as changing the max depth of a decision tree or the number of k nearest neighbors) and evaluate the models with different performance metrics.   
+This project aims to familiarize users with the basics of supervised machine learning. Supervised machine learning occurs when we give models features and target labels to make predictions. This project introduces popular models such as linear regression, decision trees, and k nearest neighbors. It also allows users to experiment with different hyperparameters (such as changing the max depth of a decision tree or the number of k nearest neighbors) and evaluate the models with different performance metrics.   
 
-This project helps to solidify the idea that data science is really an art, not a science. One singular model will not always be the perfect answer for every problem. It is important to understand that there are a variety of modeling tools that data scientists should use to their advantage, and they all have different strengths.
+This project helps to solidify the idea that data science is really an art, not a science. One singular model will not always be the perfect answer for every problem. It is important to understand that there are a variety of modeling tools that data scientists should use to their advantage, and they all have different strengths. Using linear regression, decision trees, and k nearest neighbors in this assignment helped me to understand when each model is most appropriate. 
 
 
 
