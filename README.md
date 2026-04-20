@@ -11,7 +11,11 @@ Background and instructions for applications will be provided in the individual 
 
 Project 1: Streamlit App - https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/basic_streamlit_app
 
-This project focuses on data from the 2015 World Happiness Report. Using this data, we create a streamlit app that filters and examines how different variables (such as life expectancy and GDP per capita) impact overall happiness of countries across the globe. 
+This project focuses on data from the 2015 World Happiness Report. In this report, each country counts as an observation (158 countries in total), and there are about ten columns that share more information about the country's region, happiness rank and score, GDP, life expectancy, freedom, and more. Using this data, I create a streamlit app that filters and examines how different variables impact overall happiness of countries across the globe. 
+The app I created focuses specifically on the effects of GDP, generosity, and life expectancy. I visualize these relationships using scatterplots through seaborn and matplotlib. 
+
+This project helped me to develop experience using Streamlit and manipulating data to start to tell a story. Using filtered dataframes, I was also able to make the app interactive for users hoping to dive deeper into the data.
+
 
 Project 2: Tidy Data Project - https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/TidyData-Project
 
