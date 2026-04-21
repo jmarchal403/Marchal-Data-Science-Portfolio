@@ -12,8 +12,10 @@ Week 3 Classwork:https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/t
 
 Week 4 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/04_Week_4  
       Learning to work with Streamlit, filtered dataframes, and markdown  
+      
 Week 5 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/05_Week_5  
       Handling missing and unclean data using Python  
+      
 Week 6 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/06_Week_6
       
 Week 7 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/07_Week_7
