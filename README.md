@@ -4,11 +4,11 @@ This page will feature course projects from Introduction to Data Science
 
 ## The layout of the page will be formatted like this:
   
-Class Activities
+1. Class Activities
 
-----------------
+2. Individual Projects
 
-Individual Projects
+----------------------
 
 
 
