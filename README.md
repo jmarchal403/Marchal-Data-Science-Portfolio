@@ -6,9 +6,11 @@ This page will feature course projects from Introduction to Data Science
 
 ##### **Class Activities**
 
-Week 2 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/02_Week_02
+Week 2 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/02_Week_02  
+-->  **Github and Development Tools**  
 
-Week 3 Classwork:https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/03_Week_3
+Week 3 Classwork:https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/03_Week_3  
+-->  **Data Storytelling and Streamlit**  
 
 Week 4 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/04_Week_4  
 --> **Learning to work with Streamlit, filtered dataframes, and markdown**  
@@ -16,22 +18,22 @@ Week 4 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/
 Week 5 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/05_Week_5  
 -->  **Handling missing and unclean data using Python**  
       
-Week 6 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/06_Week_6
+Week 6 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/06_Week_6  
 -->  **Principles of Tidy Data and Data Transformation**   
 
-Week 7 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/07_Week_7
+Week 7 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/07_Week_7  
 -->  **Supervised Machine Learning - Regression and Classification**
 
-Week 8 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/08_Week_8
+Week 8 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/08_Week_8  
 -->  **Supervised Machine Learning - Model Evaluation and Feature Engineering**  
 
-Week 9 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/09_Week_9
+Week 9 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/09_Week_9  
 -->  **Logistic Regression and Decision Trees**  
 
-Week 10 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/10_Week_10
+Week 10 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/10_Week_10  
 -->  **Model Comparisons, Hyperparamaters, and Ensemble Models**  
 
-Week 12 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/12_Week_12
+Week 12 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/12_Week_12  
 -->  **Introduction to Unsupervised Machine Learning: PCA**  
 
 Week 13 Classwork: https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/13_Week_13  
