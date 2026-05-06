@@ -26,28 +26,28 @@ Once the data has been selected and cleaned, users can toggle between any of the
 3. Hyperparameter tuning
 4. Conclusion (links to learn more about the particular method included)
 
-Here are the links for reference:
-K-Means Clustering - https://www.ibm.com/think/topics/k-means-clustering
-Hierarchical Clustering - https://www.datacamp.com/tutorial/hierarchical-clustering
-PCA - https://www.turing.com/kb/guide-to-principal-component-analysis
+Here are the links for reference:  
+K-Means Clustering - https://www.ibm.com/think/topics/k-means-clustering  
+Hierarchical Clustering - https://www.datacamp.com/tutorial/hierarchical-clustering  
+PCA - https://www.turing.com/kb/guide-to-principal-component-analysis  
 
 
 ### Tips for Running the App
 
 1. Make sure to go and look at the code comments I left in the python file if you are confused about any of the commands I used or what the code itself is actually doing!
 
-2. Be sure that you have imported all necessary libraries
-    All imports from this app:
-    import streamlit as st
-    import pandas as pd
-    from sklearn.cluster import KMeans
-    import matplotlib.pyplot as plt
-    from kneed import KneeLocator
-    from sklearn.metrics import silhouette_score
-    from scipy.cluster.hierarchy import dendrogram, linkage
-    from sklearn.cluster import AgglomerativeClustering
-    from sklearn.decomposition import PCA
-    from mpl_toolkits.mplot3d import Axes3D
+2. Be sure that you have imported all necessary libraries  
+    All imports from this app:  
+    import streamlit as st  
+    import pandas as pd  
+    from sklearn.cluster import KMeans  
+    import matplotlib.pyplot as plt  
+    from kneed import KneeLocator  
+    from sklearn.metrics import silhouette_score  
+    from scipy.cluster.hierarchy import dendrogram, linkage  
+    from sklearn.cluster import AgglomerativeClustering  
+    from sklearn.decomposition import PCA  
+    from mpl_toolkits.mplot3d import Axes3D  
 
 ### App Feature Examples
 
