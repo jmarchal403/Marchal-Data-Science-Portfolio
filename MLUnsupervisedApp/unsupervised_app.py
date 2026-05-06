@@ -50,17 +50,17 @@ else:
     selected_dataset = st.selectbox("Select a dataset", dataset_options)
     
     if selected_dataset == "Social Media Impacts Dataset":
-        df = pd.read_csv("sample_data/Social_Media.csv")
+        df = pd.read_csv("MLUnsupervisedApp/sample_data/Social_Media.csv")
         st.write("You have selected the Social Media Impacts Dataset. This is a dataset that records social media usage and patterns associated with high and low users. Here's a preview:")
         st.dataframe(df.head())
         
     elif selected_dataset == "World Happiness Dataset":
-        df = pd.read_csv("sample_data/world_happiness_2026.csv")
+        df = pd.read_csv("MLUnsupervisedApp/sample_data/world_happiness_2026.csv")
         st.write("You have selected the World Happiness Dataset. This is a dataset that records the happiness levels of individuals across different countries in 2026. Here's a preview:")
         st.dataframe(df.head())
         
     elif selected_dataset == "Teen Mental Health Dataset":
-        df = pd.read_csv("sample_data/Teen_Mental_Health_Dataset.csv")
+        df = pd.read_csv("MLUnsupervisedApp/sample_data/Teen_Mental_Health_Dataset.csv")
         st.write("You have selected the Teen Mental Health Dataset. This is a dataset that records the mental health status of teenagers and their usage of Instagram and/or Tiktok. Here's a preview:")
         st.dataframe(df.head())
 
