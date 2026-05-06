@@ -4,7 +4,7 @@ This app is designed to walk users through the basics of unsupervised machine le
 
 Here is a link to the app uploaded to Streamlit Community Cloud: https://unsupervisedapppy-cswjxzzprzib7nocpjrrse.streamlit.app/
 
-Unsupervised machine learning differs from supervised machine learning in that it attempts to find hidden structures or patterns within the data without actually being given data labels. 
+Unsupervised machine learning differs from supervised machine learning in that it attempts to find hidden structures or patterns within the data without actually being given targets or data labels. 
 
 Using this app, users will begin to learn about common methods used to detect these hidden patterns in the data. 3 popular models are provided as options: K-Means Clustering, Hierarchical Clustering, and Principal Component Analysis (PCA). With either their own custom data set or a sample data set provided in the app, users can experiment with each of these three methods and even explore different hyperparameters. 
 
