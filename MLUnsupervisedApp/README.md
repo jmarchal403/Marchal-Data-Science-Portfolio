@@ -47,7 +47,9 @@ PCA - https://www.turing.com/kb/guide-to-principal-component-analysis
     from scipy.cluster.hierarchy import dendrogram, linkage  
     from sklearn.cluster import AgglomerativeClustering  
     from sklearn.decomposition import PCA  
-    from mpl_toolkits.mplot3d import Axes3D  
+    from mpl_toolkits.mplot3d import Axes3D
+
+3. If you are running the app locally, make sure that you have the correct file path for your dataset. Your working directory needs to be set to the folder for this app. 
 
 ### App Feature Examples
 
