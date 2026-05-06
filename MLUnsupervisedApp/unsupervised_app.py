@@ -331,11 +331,9 @@ elif selected_technique == "Principal Component Analysis (PCA)":
         plt.clf()
         st.subheader("Visualizing Loadings with a Horizontal Bar Chart")
         st.write("We can also visualize the loadings with a horizontal grouped bar chart to make it easier to compare the contributions of the original features across the principal components.")
-        # loadings.plot(kind='barh', figsize=(10, 8))
-        # st.pyplot(plt)
+        # This code is to make sure there aren't too many features displayed on the y axis of the horizontal bar chart
         max_features = min(25,len(loadings))
         default_features = min(10, max_features)
-
     
         top_n = st.slider("Select number of top loading features to display", min_value = 1, max_value = max_features, value = default_features)
         top_features = loadings["Principal Component 1"].abs().sort_values(ascending=False).head(top_n).index
