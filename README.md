@@ -71,7 +71,11 @@ This project aims to familiarize users with the basics of supervised machine lea
 
 This project helps to solidify the idea that data science is really an art, not a science. One singular model will not always be the perfect answer for every problem. It is important to understand that there are a variety of modeling tools that data scientists should use to their advantage, and they all have different strengths. Using linear regression, decision trees, and k nearest neighbors in this assignment helped me to understand when each model is most appropriate. 
 
+Project 4: Unsupervised Machine Learning App - https://github.com/jmarchal403/Marchal-Data-Science-Portfolio/tree/main/MLUnsupervisedApp
 
+The goal of this app is to provide users with the basics of unsupervised machine learning. Unsupervised machine learning is a technique that works without targets or data labels to find hidden structures in the data. This project uses three popular unsupervised machine learning methods: k-means clustering, hierarchical clustering, and principal component analysis. With these methods, the user explores performance metrics and different visualizations of the data. This includes silhouette scores, scatter plots, elbow plots, loadings, and dendrograms. Hyperparameter tuning is also inclued in this app. This includes the number of iterations, the number of clusters, the method of clustering, truncation modes, and more. 
+
+This app builds upon my previous experience with Streamlit and further develops my skills in Python to explore machine learning techniques. Through making this guide to unsupervised machine learning, I have gained a much better understanding of the methods used, the impacts of the various hyperparameters, and the information revealed with certain visualizations and plots. Understanding all three is important for any data scientist looking to work with unsupervised machine learning. 
 
 -----------------------------------------------------
 
