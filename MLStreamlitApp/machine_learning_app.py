@@ -46,17 +46,17 @@ if dataset_option == "Upload Your Own Dataset":
 
 elif dataset_option == "Flight Data":
     st.write("You selected the Flight Data. The Flight Data contains information about flights, including flight date, arrival time, departures, delays, and more.")
-    df = pd.read_csv("Data/flights-1m.csv")
+    df = pd.read_csv("MLStreamlitApp/Data/flights-1m.csv")
     st.dataframe(df.head())
 
 elif dataset_option == "Motor Trends":
     st.write("You selected the Motor Trends Data. The Motor Trends Data contains information about various car models, mpg, weight, horsepower, and other performance metrics.")
-    df = pd.read_csv("Data/mtcars.csv")
+    df = pd.read_csv("MLStreamlitApp/Data/mtcars.csv")
     st.dataframe(df.head())
 
 elif dataset_option == "Weather Data":
     st.write("You selected the Weather Data. The Weather Data contains information about weather conditions, including temperature, sunshine, rainfall, wind speed, and humidity.")
-    df = pd.read_csv("Data/weather.csv")
+    df = pd.read_csv("MLStreamlitApp/Data/weather.csv")
     st.dataframe(df.head())
 
 categorical_columns = df.select_dtypes(exclude=['number']).columns.tolist()
